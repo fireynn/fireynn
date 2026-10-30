@@ -1,7 +1,7 @@
 {
- "key": "d2f6751a",
+ "key": "d3ad7d6b",
  "stars": 0,
- "contributions": 14,
+ "contributions": 15,
  "repos": 3,
  "followers": 0,
  "languages": [
@@ -12,10 +12,6 @@
   [
    "Jupyter Notebook",
    22254
-  ],
-  [
-   "Rust",
-   45
   ]
  ],
  "days": [
@@ -120,7 +116,7 @@
     "today": false
    },
    {
-    "c": 4,
+    "c": 5,
     "day": 30,
     "today": true
    },
@@ -148,7 +144,7 @@
    "text": "Routes all computer traffic through a SOCKS5 proxy running on an iPhone in iSH via a TUN interface.",
    "fork": false,
    "stars": 0,
-   "language": "Rust",
+   "language": null,
    "topics": []
   },
   {

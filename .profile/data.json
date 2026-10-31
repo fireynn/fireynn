@@ -1,13 +1,13 @@
 {
- "key": "6792276b",
+ "key": "e609a5f2",
  "stars": 0,
- "contributions": 18,
- "repos": 3,
+ "contributions": 10,
+ "repos": 2,
  "followers": 0,
  "languages": [
   [
    "Python",
-   337437
+   326326
   ],
   [
    "Jupyter Notebook",
@@ -111,25 +111,25 @@
     "today": false
    },
    {
-    "c": 3,
+    "c": 0,
     "day": 29,
     "today": false
    },
    {
-    "c": 5,
+    "c": 3,
     "day": 30,
     "today": false
    },
    {
-    "c": 3,
+    "c": 0,
     "day": 31,
     "today": true
    }
   ]
  ],
  "streak": {
-  "current": 3,
-  "longest": 3
+  "current": 1,
+  "longest": 2
  },
  "pins": [],
  "all": [
@@ -140,15 +140,6 @@
    "fork": false,
    "stars": 0,
    "language": null,
-   "topics": []
-  },
-  {
-   "name": "ProxyFrIos",
-   "url": "https://github.com/fireynn/ProxyFrIos",
-   "text": "Routes all computer traffic through a SOCKS5 proxy running on an iPhone in iSH via a TUN interface.",
-   "fork": false,
-   "stars": 0,
-   "language": "Python",
    "topics": []
   },
   {

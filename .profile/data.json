@@ -1,13 +1,13 @@
 {
- "key": "4f6da558",
- "stars": 0,
- "contributions": 12,
+ "key": "190da864",
+ "stars": 1,
+ "contributions": 26,
  "repos": 3,
  "followers": 0,
  "languages": [
   [
    "Python",
-   326326
+   329148
   ],
   [
    "Jupyter Notebook",
@@ -98,9 +98,13 @@
    {
     "c": 2,
     "day": 2,
+    "today": false
+   },
+   {
+    "c": 14,
+    "day": 3,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -108,7 +112,7 @@
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 2
  },
  "pins": [],
@@ -116,10 +120,10 @@
   {
    "name": "ResKDE",
    "url": "https://github.com/fireynn/ResKDE",
-   "text": "A bot to restart KDE Plasma 6 if it freezes.",
+   "text": "A telegram bot to restart KDE Plasma 6 if it freezes.",
    "fork": false,
-   "stars": 0,
-   "language": null,
+   "stars": 1,
+   "language": "Python",
    "topics": []
   },
   {

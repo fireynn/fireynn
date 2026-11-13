@@ -1,5 +1,5 @@
 {
- "key": "dfa3723e",
+ "key": "43d40a3f",
  "stars": 2,
  "contributions": 38,
  "repos": 3,
@@ -113,9 +113,13 @@
    {
     "c": 0,
     "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
     "today": true
    },
-   null,
    null
   ]
  ],
